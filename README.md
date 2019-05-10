@@ -11,7 +11,7 @@ Please read [Schematics: A Plug-in System for JavaScript Projects](https://scotc
 To install this example, run the following commands:
 
 ```sh
-git clone git@github.com:oktadeveloper/vue-schematics-example.git bvi
+git clone https://github.com/oktadeveloper/vue-schematics-example.git bvi
 cd bvi
 ```
 
