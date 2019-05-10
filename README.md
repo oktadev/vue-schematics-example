@@ -17,7 +17,7 @@ cd bvi
 
 Run `npm pack` to package it up so you can install it in a Vue.js App.
 
-Create a Vue app to test this Schematic and install reactstrap.
+Create a Vue app to test this Schematic and install BootstrapVue.
 
 ```sh
 vue create test
